@@ -106,10 +106,3 @@ export = Covid;
 
 
 
-/*
-Note to self for tomorrow:
-- Make docs (small website maybe?)
-- Credit worldometers
-- Add comments to code so it's easy to understand
-- Publish to npm
-*/

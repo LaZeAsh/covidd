@@ -24,3 +24,5 @@ import Covid from 'covid';
 const covid = new Covid();
 await covid.getData("cases", "USA")
 ```
+
+NPM Package Link: https://www.npmjs.com/package/covidd
